@@ -4,6 +4,8 @@
 🚀 Passionate about full-stack development, Research, and building impactful digital products  
 🧠 Currently exploring Docker, Spring Boot, and AI applications across various domains
 
+[Portfolio](https://limbodhiwijaya.my.id) • [LinkedIn](https://www.linkedin.com/in/limbodhiwijaya/) • [Email](mailto:lim.bodhi@ui.ac.id)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -12,8 +14,6 @@
 - **Backend:** Spring Boot, Django  
 - **Tools:** Docker, Git, PostgreSQL, Figma, Vercel, Koyeb  
 - **Languages:** Java, Python
-
----
 
 ### 📌 Highlight Projects
 
@@ -31,7 +31,3 @@
 
 > 🔒 Most of my academic and collaborative projects are hosted on our university GitLab at [gitlab.cs.ui.ac.id](https://gitlab.cs.ui.ac.id/)  
 > If you're a reviewer or recruiter and want to see them, feel free to [email me](mailto:lim.bodhi@ui.ac.id).
-
-### 📫 Let's Connect!
-
-[LinkedIn](https://www.linkedin.com/in/limbodhiwijaya/) • [Email](mailto:lim.bodhi@ui.ac.id)
